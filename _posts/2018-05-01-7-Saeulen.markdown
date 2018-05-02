@@ -11,6 +11,8 @@ Quelle: [Flowcampus](http://flowcampus.com/wp-content/uploads/sites/8/2017/09/7s
 
 **Zeit**: ‚Überall‘ ist für mich Raum nicht Zeit
 
+![image-title-here](/_assets/felix.png){:class="img-responsive"}
+
 **Raum**: ‚Präsenz nur bei Bedarf‘ erklärt die Nicht-Präsenz zur Norm
 
 **Technologie**: liefert nicht nur Inhalte und ist aus mir nicht ersichtlichen Gründen vom nächsten Punkt, den **digitalisierten Inhalten**, getrennt
