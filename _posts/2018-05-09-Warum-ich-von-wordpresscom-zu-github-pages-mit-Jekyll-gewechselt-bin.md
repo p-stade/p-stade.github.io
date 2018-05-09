@@ -7,7 +7,7 @@ date: 2018-05-09 10:00:46.000000000 +02:00
 
 ## Darum:
 ![webbkoll-Ergebnis](https://raw.githubusercontent.com/p-stade/p-stade.github.io/master/_assets/p-stade-webbkoll.png)
-*Ergebnis einer Abfrage bei https://webbkoll.dataskydd.net*
+*Ergebnis einer Abfrage bei <https://webbkoll.dataskydd.net>*
 
 Es geht für mich um Datensparsamkeit und eine möglichst rechtssichere Blog-Lösung im Zuge der neuen Datenschutzgrundverordnung #DSGVO. Außerdem wollte ich eh von dem werbefinanzierten Modell von Wordpress.com weg kommen. Alternativ hätte ich auch wieder einen eigenen Wordpress-Blog einrichten können, aber nach meinen bisherigen Erfahrungen ist mir das zu unsicher und zu aufwändig für ein einfaches Blog wie meines.
 
