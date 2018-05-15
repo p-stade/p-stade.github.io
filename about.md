@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impressum / Datenschutzerklärung
+title: Impressum / Datenschutz
 permalink: /about/
 ---
 
