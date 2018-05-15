@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-![Header](https://raw.githubusercontent.com/p-stade/p-stade.github.io/master/_assets/header.png)
