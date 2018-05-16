@@ -16,14 +16,12 @@
 title: Lernen im digitalen Wandel
 email: philip.stade @ gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog von Philip Stade //
-  Lizenz: CC-BY 4.0
+  Blog von Philip Stade
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://p-stade.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FreieKultur
 rss: rss
 
-show_excerpts: true
 
 # Build settings
 markdown: kramdown
