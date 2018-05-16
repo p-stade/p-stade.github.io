@@ -14,7 +14,7 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> <a href="https://p-stade.github.io/about/">Impressum / Datenschutz</a>
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a><br /><a href="https://p-stade.github.io/about/">Impressum / Datenschutz</a>
             {%- endif -%}
         </ul>
       </div>
@@ -24,8 +24,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-        <p><a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 International Lizenz</a>.</p>
+        <p>{{- site.description | escape -}}<br /><a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 International Lizenz</a>.</p>
 
       </div>
     </div>
