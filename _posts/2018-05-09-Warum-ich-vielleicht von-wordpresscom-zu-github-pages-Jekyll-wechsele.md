@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Warum ich vielleicht von wordpress.com zu Github-pages/Jekyll wechsele
+title: Warum ich ~vielleicht~ von wordpress.com zu Github-pages/Jekyll wechsele
 date: 2018-05-10 10:00:46.000000000 +02:00
 
 ---
